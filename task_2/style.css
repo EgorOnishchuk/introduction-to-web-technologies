@@ -1,0 +1,22 @@
+html {
+    font-family: 'Roboto', sans-serif;
+    background-color: lightblue;
+}
+
+header {
+    text-align: center;
+}
+
+.scheme {
+    width: 500px;
+    height: 280px;
+}
+
+.illustration {
+    width: 500px;
+    height: 400px;
+}
+
+footer {
+    text-align: center;
+}
