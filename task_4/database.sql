@@ -1,0 +1,6 @@
+CREATE TABLE CLASSMATES (
+    classmateID INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    age INTEGER NOT NULL,
+    address TEXT NOT NULL
+);
